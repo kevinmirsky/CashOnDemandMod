@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class CashOnDemandComponent : MonoBehaviour {
 
-    private static readonly int CashAmount = 5000000;
+    private static readonly int CashAmount = 100000;
 
     private bool CtrlCmdDown {
         get {
